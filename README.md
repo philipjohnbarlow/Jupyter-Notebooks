@@ -1,1 +1,3 @@
-# jupyter_notebooks
+# Jupyter-Notebooks
+
+Repository for my ipython notebooks
